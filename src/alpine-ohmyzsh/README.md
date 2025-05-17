@@ -17,6 +17,7 @@ Installs ohmyzsh on alpine
 |-----|-----|-----|-----|
 | defaultPlugins | Default OhMyZsh plugins to enable | string | git alias-tips autoupdate zsh-autosuggestions zsh-syntax-highlighting |
 | plugins | OhMyZsh plugins to enable | string | - |
+| zshTheme | OhMyZsh theme to use | string | robbyrussell |
 
 
 

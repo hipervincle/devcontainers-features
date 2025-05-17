@@ -49,6 +49,10 @@ if echo "$PLUGINS" | grep -w -q "alias-tips"; then
   git clone https://github.com/djui/alias-tips $_CONTAINER_USER_HOME/.oh-my-zsh/custom/plugins/alias-tips
 fi
 
+if echo "$PLUGINS" | grep -w -q "powerlevel10k"; then
+  git clone https://github.com/romkatv/powerlevel10k.git $_CONTAINER_USER_HOME/.oh-my-zsh/custom/themes/powerlevel10k
+fi
+
 if echo "$PLUGINS" | grep -w -q "zsh-interactive-cd"; then
   apk --no-cache add fzf
 fi
@@ -61,7 +65,11 @@ if command -v starship > /dev/null; then
   echo $'\neval "$(starship init zsh)"' >> $_CONTAINER_USER_HOME/.zshrc
 fi
 
-sed -i "s|:/bin/ash|:/bin/zsh|g" /etc/passwd
-sed -i "s|:/bin/sh|:/bin/zsh|g" /etc/passwd
+if [ -n "$ZSHTHEME" ]; then
+  sed -i "s|^ZSH_THEME=.*|ZSH_THEME=\"$ZSHTHEME\"|" $_CONTAINER_USER_HOME/.zshrc
+fi
+
+sed -i 's|:/bin/ash$|:/bin/zsh|' /etc/passwd
+sed -i 's|:/bin/sh$|:/bin/zsh|' /etc/passwd
 
 echo 'Done!'

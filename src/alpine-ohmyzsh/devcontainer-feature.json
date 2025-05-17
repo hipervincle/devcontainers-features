@@ -18,6 +18,11 @@
       "type": "string",
       "default": "",
       "description": "OhMyZsh plugins to enable"
+    },
+    "zshTheme": {
+      "type": "string",
+      "default": "robbyrussell",
+      "description": "OhMyZsh theme to use"
     }
   }
 }
