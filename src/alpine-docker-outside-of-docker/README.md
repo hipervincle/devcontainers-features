@@ -9,7 +9,7 @@ Re-use the host docker socket, adding the Docker CLI to alpine container
 
 ```json
 "features": {
-    "ghcr.io/cirolosapio/devcontainers-features/alpine-docker-outside-of-docker:0": {}
+    "ghcr.io/hipervincle/devcontainers-features/alpine-docker-outside-of-docker:0": {}
 }
 ```
 
@@ -29,4 +29,4 @@ Re-use the host docker socket, adding the Docker CLI to alpine container
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/cirolosapio/devcontainers-features/blob/main/src/alpine-docker-outside-of-docker/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/hipervincle/devcontainers-features/blob/main/src/alpine-docker-outside-of-docker/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
