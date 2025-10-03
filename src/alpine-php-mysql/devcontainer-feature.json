@@ -3,5 +3,5 @@
   "id": "alpine-php-mysql",
   "version": "0.0.1",
   "description": "Installs mysql driver for php on alpine",
-  "documentationURL": "https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-php-mysql"
+  "documentationURL": "https://github.com/hipervincle/devcontainers-features/tree/main/src/alpine-php-mysql"
 }

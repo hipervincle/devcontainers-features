@@ -3,9 +3,9 @@
   "id": "alpine-nushell",
   "version": "0.0.13",
   "description": "Installs nushell on alpine",
-  "documentationURL": "https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-nushell",
+  "documentationURL": "https://github.com/hipervincle/devcontainers-features/tree/main/src/alpine-nushell",
   "installsAfter": [
-    "ghcr.io/cirolosapio/devcontainers-features/alpine-user",
-    "ghcr.io/cirolosapio/devcontainers-features/alpine-starship"
+    "ghcr.io/hipervincle/devcontainers-features/alpine-user",
+    "ghcr.io/hipervincle/devcontainers-features/alpine-starship"
   ]
 }

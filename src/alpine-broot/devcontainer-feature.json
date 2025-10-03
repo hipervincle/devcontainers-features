@@ -3,8 +3,8 @@
   "id": "alpine-broot",
   "version": "0.0.5",
   "description": "Installs broot on alpine",
-  "documentationURL": "https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-broot",
+  "documentationURL": "https://github.com/hipervincle/devcontainers-features/tree/main/src/alpine-broot",
   "installsAfter": [
-    "ghcr.io/cirolosapio/devcontainers-features/alpine-ohmyzsh"
+    "ghcr.io/hipervincle/devcontainers-features/alpine-ohmyzsh"
   ]
 }

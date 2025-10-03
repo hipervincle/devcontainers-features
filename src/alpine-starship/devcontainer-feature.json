@@ -3,5 +3,5 @@
   "id": "alpine-starship",
   "version": "0.0.2",
   "description": "Installs starship on alpine",
-  "documentationURL": "https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-starship"
+  "documentationURL": "https://github.com/hipervincle/devcontainers-features/tree/main/src/alpine-starship"
 }

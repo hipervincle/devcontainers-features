@@ -3,5 +3,5 @@
   "id": "alpine-gh-cli",
   "version": "0.0.1",
   "description": "Installs github cli on alpine",
-  "documentationURL": "https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-gh-cli"
+  "documentationURL": "https://github.com/hipervincle/devcontainers-features/tree/main/src/alpine-gh-cli"
 }

@@ -3,7 +3,7 @@
   "id": "alpine-ctop",
   "version": "0.0.2",
   "description": "Installs ctop on alpine",
-  "documentationURL": "https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-ctop",
+  "documentationURL": "https://github.com/hipervincle/devcontainers-features/tree/main/src/alpine-ctop",
   "mounts": [
     {
       "source": "/var/run/docker.sock",

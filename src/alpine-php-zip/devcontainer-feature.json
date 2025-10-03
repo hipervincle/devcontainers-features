@@ -3,5 +3,5 @@
   "id": "alpine-php-zip",
   "version": "0.0.1",
   "description": "Installs zip for php on alpine",
-  "documentationURL": "https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-php-zip"
+  "documentationURL": "https://github.com/hipervincle/devcontainers-features/tree/main/src/alpine-php-zip"
 }

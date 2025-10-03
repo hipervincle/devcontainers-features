@@ -3,5 +3,5 @@
   "id": "alpine-php-ftp",
   "version": "0.0.2",
   "description": "Installs ftp extension for php on alpine",
-  "documentationURL": "https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-php-ftp"
+  "documentationURL": "https://github.com/hipervincle/devcontainers-features/tree/main/src/alpine-php-ftp"
 }

@@ -3,5 +3,5 @@
   "id": "alpine-php-pcntl",
   "version": "0.0.1",
   "description": "Installs pcntl extension for php on alpine",
-  "documentationURL": "https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-php-pcntl"
+  "documentationURL": "https://github.com/hipervincle/devcontainers-features/tree/main/src/alpine-php-pcntl"
 }

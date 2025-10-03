@@ -3,7 +3,7 @@
   "id": "alpine-php-composer",
   "version": "0.0.22",
   "description": "Installs php composer on alpine",
-  "documentationURL": "https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-php-composer",
+  "documentationURL": "https://github.com/hipervincle/devcontainers-features/tree/main/src/alpine-php-composer",
   "options": {
     "version": {
       "type": "string",

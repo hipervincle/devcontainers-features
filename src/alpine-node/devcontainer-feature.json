@@ -3,9 +3,9 @@
   "id": "alpine-node",
   "version": "0.0.15",
   "description": "Installs node and npm on alpine",
-  "documentationURL": "https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-node",
+  "documentationURL": "https://github.com/hipervincle/devcontainers-features/tree/main/src/alpine-node",
   "installsAfter": [
-    "ghcr.io/cirolosapio/devcontainers-features/alpine-user"
+    "ghcr.io/hipervincle/devcontainers-features/alpine-user"
   ],
   "options": {
     "corepack": {

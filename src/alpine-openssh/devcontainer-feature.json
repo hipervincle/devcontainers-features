@@ -3,5 +3,5 @@
   "id": "alpine-openssh",
   "version": "0.0.1",
   "description": "Installs openssh on alpine",
-  "documentationURL": "https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-openssh"
+  "documentationURL": "https://github.com/hipervincle/devcontainers-features/tree/main/src/alpine-openssh"
 }

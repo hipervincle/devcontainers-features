@@ -3,7 +3,7 @@
   "id": "alpine-user",
   "version": "0.0.3",
   "description": "Create a user on alpine",
-  "documentationURL": "https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-user",
+  "documentationURL": "https://github.com/hipervincle/devcontainers-features/tree/main/src/alpine-user",
   "options": {
     "user": {
       "type": "string",

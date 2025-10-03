@@ -3,5 +3,5 @@
   "id": "alpine-sshs",
   "version": "0.0.1",
   "description": "Installs sshs on alpine",
-  "documentationURL": "https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-sshs"
+  "documentationURL": "https://github.com/hipervincle/devcontainers-features/tree/main/src/alpine-sshs"
 }

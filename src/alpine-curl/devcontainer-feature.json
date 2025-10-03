@@ -3,5 +3,5 @@
   "id": "alpine-curl",
   "version": "0.0.1",
   "description": "Installs curl on alpine",
-  "documentationURL": "https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-curl"
+  "documentationURL": "https://github.com/hipervincle/devcontainers-features/tree/main/src/alpine-curl"
 }

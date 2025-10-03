@@ -3,5 +3,5 @@
   "id": "alpine-bun",
   "version": "0.0.1",
   "description": "Installs bun on alpine",
-  "documentationURL": "https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-bun"
+  "documentationURL": "https://github.com/hipervincle/devcontainers-features/tree/main/src/alpine-bun"
 }

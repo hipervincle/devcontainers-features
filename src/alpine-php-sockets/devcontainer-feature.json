@@ -3,5 +3,5 @@
   "id": "alpine-php-sockets",
   "version": "0.0.3",
   "description": "Installs sockets extension for php on alpine",
-  "documentationURL": "https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-php-sockets"
+  "documentationURL": "https://github.com/hipervincle/devcontainers-features/tree/main/src/alpine-php-sockets"
 }
