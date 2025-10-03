@@ -7,7 +7,7 @@ Installs mage2postman on alpine
 
 ```json
 "features": {
-    "ghcr.io/cirolosapio/devcontainers-features/alpine-mage2postman:0": {}
+    "ghcr.io/hipervincle/devcontainers-features/alpine-mage2postman:0": {}
 }
 ```
 
@@ -17,4 +17,4 @@ Installs mage2postman on alpine
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/cirolosapio/devcontainers-features/blob/main/src/alpine-mage2postman/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/hipervincle/devcontainers-features/blob/main/src/alpine-mage2postman/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

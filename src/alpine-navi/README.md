@@ -7,7 +7,7 @@ Installs navi on alpine
 
 ```json
 "features": {
-    "ghcr.io/cirolosapio/devcontainers-features/alpine-navi:0": {}
+    "ghcr.io/hipervincle/devcontainers-features/alpine-navi:0": {}
 }
 ```
 
@@ -17,4 +17,4 @@ Installs navi on alpine
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/cirolosapio/devcontainers-features/blob/main/src/alpine-navi/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/hipervincle/devcontainers-features/blob/main/src/alpine-navi/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
