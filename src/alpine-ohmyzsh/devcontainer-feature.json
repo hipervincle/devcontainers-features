@@ -3,10 +3,10 @@
   "id": "alpine-ohmyzsh",
   "version": "0.0.23",
   "description": "Installs ohmyzsh on alpine",
-  "documentationURL": "https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-ohmyzsh",
+  "documentationURL": "https://github.com/hipervincle/devcontainers-features/tree/main/src/alpine-ohmyzsh",
   "installsAfter": [
-    "ghcr.io/cirolosapio/devcontainers-features/alpine-user",
-    "ghcr.io/cirolosapio/devcontainers-features/alpine-starship"
+    "ghcr.io/hipervincle/devcontainers-features/alpine-user",
+    "ghcr.io/hipervincle/devcontainers-features/alpine-starship"
   ],
   "options": {
     "defaultPlugins": {
@@ -18,6 +18,11 @@
       "type": "string",
       "default": "",
       "description": "OhMyZsh plugins to enable"
+    },
+    "zshTheme": {
+      "type": "string",
+      "default": "robbyrussell",
+      "description": "OhMyZsh theme to use"
     }
   }
 }

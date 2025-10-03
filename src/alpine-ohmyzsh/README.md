@@ -7,7 +7,7 @@ Installs ohmyzsh on alpine
 
 ```json
 "features": {
-    "ghcr.io/cirolosapio/devcontainers-features/alpine-ohmyzsh:0": {}
+    "ghcr.io/hipervincle/devcontainers-features/alpine-ohmyzsh:0": {}
 }
 ```
 
@@ -17,9 +17,10 @@ Installs ohmyzsh on alpine
 |-----|-----|-----|-----|
 | defaultPlugins | Default OhMyZsh plugins to enable | string | git alias-tips autoupdate zsh-autosuggestions zsh-syntax-highlighting |
 | plugins | OhMyZsh plugins to enable | string | - |
+| zshTheme | OhMyZsh theme to use | string | robbyrussell |
 
 
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/cirolosapio/devcontainers-features/blob/main/src/alpine-ohmyzsh/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/hipervincle/devcontainers-features/blob/main/src/alpine-ohmyzsh/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
