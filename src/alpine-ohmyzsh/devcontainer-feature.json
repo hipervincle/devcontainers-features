@@ -23,6 +23,11 @@
       "type": "string",
       "default": "robbyrussell",
       "description": "OhMyZsh theme to use"
+    },
+    "zshPath": {
+      "type": "string",
+      "default": "~/.oh-my-zsh",
+      "description": "OhMyZsh installation path"
     }
   }
 }
